@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**Debora0522/Debora0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Debora 
 
-Here are some ideas to get you started:
+-Estou estudando no Alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Quero me desenvolver na linguagem javascript
+
+-Uso este espaço para maior organizaçao e compartilhamento dos meus projetos desenvolvidos 
+
+-Vai me seguir no insta @deborafernandes_16
+
+-Nao tem nada la mas vai la 
+
+![](https://media1.tenor.com/m/ac6D22uQ4S0AAAAd/naruto-shippuden-naruto-run.gif)
